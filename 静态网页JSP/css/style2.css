@@ -1,0 +1,32 @@
+.menu{
+  height:24px;
+  background: #000;
+  display:inline;
+}
+.menu ul{
+  list-style: none;
+  margin:0;
+  padding:20px 0px 0px 10%;
+}
+.menu ul li{
+  display: inline;
+  padding: 0px 10px;
+}
+.menu ul li a{
+  margin-left: 6%;
+  color:#fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+.DML ul{
+  margin: 0px 0px 0px 3%;
+  text-align: left;
+
+}
+.DML ul li{
+  margin: -1px 0px 0px auto;
+  text-decoration:none;
+}
+.DML ul li a{
+  text-decoration: none;
+}
